@@ -1,12 +1,12 @@
 ## How to Host a Resume on Github Pages Using Jekyll  
 Gone are the days of writing a resume in a word processing software, exporting it to a PDF, and attaching it to every email you send to potential employers. A much more efficient and modern approach is hosting your resume on a personalized static website, and then sending _links_ to your super-cool resume website. This allows you to maintain only one copy of your resume, rather than worrying about editing it every time you need a copy. As Andrew Etter says in his book _Modern Technical Writing_, single-sourcing popular documents using links is one of the most wonderful things the internet has given us. Creating and hosting your own website sounds like a daunting task; however, tools like Jekyll and Github Pages make the process quite simple. Jekyll generates awesome-looking websites with ease, and Github Pages hosts your website under their domain _.github.io_. This tutorial is meant to get your resume website up and running. It's up to you to fill it with a well-formatted resume. 
 
-### Here's how:
-
-#### Prerequisites:
+## Prerequisites:
 - [Github account](https://github.com/login)
 - [Jekyll installed](https://jekyllrb.com/docs/installation/).
-- Jekyll is not officially supported for windows, so if you are a windows user, use [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to get access to a Linux command line.  
+- Jekyll is not officially supported for windows, so if you are a windows user, use [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to get access to a Linux command line. 
+
+## Steps
 
 1. **Initialize the Github repository**. On Github, go to the **Respositories** tab and select **New**. Name the repository **_username_.github.io** (_username_ should match your Github username exactly) and make sure **Initilialize this  repository with a README** is unchecked. Click **Create repository**. 
 > **Short aside:** Github is the industry standard interface for the most popular distributed version control tool _Git_. Distributed version control is a very powerful concept within software development (and other fields like technical writing) that allows developers to work on large projects without breaking the main build, to work remotely and offline, and do concurrent work on the same file. Etter sites these as reasons why distributed version control is essential for software development and documentation. Learning how to use this tool is a worthwhile investment of your time, because it is sure to come up in a job interview sooner or later.   

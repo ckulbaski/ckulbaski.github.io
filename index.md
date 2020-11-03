@@ -32,5 +32,3 @@ University of Manitoba - Year 4
 
 #### **Feel Good Café, St. Norbert Community Centre** - _Canteen Operator_ (September 2015 - March 2017)
 - Independently responsible for opening and closing the canteen. Provide excellent customer service to patrons. Prepare a variety of hot and cold meals in a kitchen environment (breakfast and lunch). Operate cash register,## Conner Kulbaski  
-### Bachelor of Science - _Computer Science (Hons.)_  
-University of Manitoba - Year 4  

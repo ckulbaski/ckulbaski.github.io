@@ -25,4 +25,6 @@ Gone are the days of writing a resume in a word processing software, exporting i
 [Here's](https://www.markdowntutorial.com/) an excellent resource to learn Markdown. Once you've learned how to write markdown, create your first post on your website  
 [Theme](https://github.com/samarsault/texture)  
 ### Acknowledgements
-Connor Bean, Johnnus Gomez, Ayush Patel. Samarjeet Singh for the Jekyll theme. 
+- Group peer review:
+  - [Connor Bean](https://github.com/williamconnorbean/), [Johnnus Gomez](https://github.com/gomezj3), Ayush Patel. 
+- Jekyll theme: [Samarjeet Singh](https://github.com/samarsault) 

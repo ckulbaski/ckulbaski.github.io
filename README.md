@@ -1,8 +1,3 @@
----
-layout: page
-title:  "Readme"
----
-
 ## How to Host a Resume on Github Pages Using Jekyll  
 Gone are the days of writing a resume in a word processing software, exporting it to a PDF, and attaching it to every email you send to potential employers. A much more efficient and modern approach is hosting your resume on a personalized static website, and then sending _links_ to your super-cool resume website. This allows you to maintain only one copy of your resume, rather than worrying about editing it every time you need a copy. As Andrew Etter says in his book _Modern Technical Writing_, single-sourcing popular documents using links is one of the most wonderful things the internet has given us. Creating and hosting your own website sounds like a daunting task; however, tools like Jekyll and Github Pages make the process quite simple. Jekyll generates awesome-looking websites with ease, and Github Pages hosts your website under their domain _.github.io_. This tutorial is meant to get your resume website up and running. It's up to you to fill it with a well-formatted resume. 
 

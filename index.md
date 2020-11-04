@@ -31,4 +31,4 @@ University of Manitoba - Year 4
 - Reffing paintball games independently with up to 100 people. Maintain facility including cleaning all gear, guns, and fields. Provide excellent customer service to all customers  
 
 #### **Feel Good Café, St. Norbert Community Centre** - _Canteen Operator_ (September 2015 - March 2017)
-- Independently responsible for opening and closing the canteen. Provide excellent customer service to patrons. Prepare a variety of hot and cold meals in a kitchen environment (breakfast and lunch). Operate cash register,## Conner Kulbaski  
+- Independently responsible for opening and closing the canteen. Provide excellent customer service to patrons. Prepare a variety of hot and cold meals in a kitchen environment (breakfast and lunch). Operate cash register, balanced float, and secured cas​h.

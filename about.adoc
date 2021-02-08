@@ -2,7 +2,7 @@
 :layout: default
 :page-permalink: /about/
 
-== Hello!
+== Hello
 
 [.lead]
 image:/assets/me.jpeg[float="right",width=128]

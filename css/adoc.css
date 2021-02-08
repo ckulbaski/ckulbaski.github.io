@@ -17,6 +17,11 @@ html {
     line-height: 1.5em;
 }
 
+p {
+    hyphens: auto;
+    text-align: justify;
+}
+
 body {
     background: white;
     color: black;
@@ -252,11 +257,12 @@ kbd {
 }
 
 a {
-    color: #2156a5;
+    text-decoration-color: #2156a5;
+    color:black;
 }
 
 a:hover, a:focus {
-    color: #1d4b8f;
+    color: #2156a5;
 }
 
 .sidebarblock {

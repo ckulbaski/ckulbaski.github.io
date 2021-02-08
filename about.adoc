@@ -1,0 +1,9 @@
+= About
+:layout: default
+:page-permalink: /about/
+
+== Hello!
+
+[.lead]
+image:/assets/me.jpeg[float="right",width=128]
+I am Conner Kulbaski, a Computer Science student at the University of Manitoba. I am currently seeking employment in the field of software engineering/IT that can work with a student's schedule. Contact me at connerkulbaski@gmail.com !

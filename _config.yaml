@@ -1,0 +1,20 @@
+title: Conner Kulbaski
+description: >
+  Conner Kulbaski's resume.
+baseurl: ""
+url: "https://ckulbaski.github.io/"
+github_username: ckulbaski
+
+plugins:
+- jekyll-asciidoc
+- jekyll-redirect-from
+
+asciidoctor:
+  attributes:
+    - icons=font
+    - source-highlighter=rouge
+    - source-linenums-option=_
+    - sectanchors=_
+    - experimental=_
+    - rouge-style=github
+    - stylesdir=css

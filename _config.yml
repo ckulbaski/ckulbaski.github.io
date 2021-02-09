@@ -1,15 +1,21 @@
-title: Conner Kulbaski
-description: >
-  Conner Kulbaski's resume.
+title: Jekyll AsciiDoc Quickstart
+description: The Jekyll AsciiDoc Quickstart project is a leg-up in starting your own website hosted on GitHub with content based in AsciiDoc.
 baseurl: ""
 url: "https://ckulbaski.github.io/"
 github_username: ckulbaski
-
 plugins:
 - jekyll-asciidoc
 - jekyll-redirect-from
-
+exclude:
+  - LICENSE.adoc
+  - README.adoc
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+asciidoc: {}
 asciidoctor:
+  base_dir: :docdir
+  safe: unsafe
   attributes:
     - icons=font
     - source-highlighter=rouge

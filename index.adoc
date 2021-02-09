@@ -18,7 +18,7 @@ Contacts::
 
 == Education
 
-* 2017-present, Bachelor of Science - Computer Science (Honors) (unfinished),
+* 2017-present, Bachelor of Science - Computer Science (Honours) (unfinished),
   *University of Manitoba*
   
   
@@ -47,7 +47,7 @@ I was a summer groundskeeper for all 78 schools in the Winnipeg School Division 
 === University of Manitoba Recreation Services - Referee  
 icon:calendar[title="Period"] `September 2019 - March 2020` +
 
-I reffed intramural dodgeball and water polo games held at the Active Living Centre in the the University of Manitoba.  
+I reffed intramural dodgeball and water polo games held at the Active Living Centre in the University of Manitoba.  
 
 === Windsor Plywood - Sales
 icon:calendar[title="Period"] `August 2017 - April 2019` +

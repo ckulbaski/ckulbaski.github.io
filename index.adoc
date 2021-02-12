@@ -4,7 +4,7 @@
 == Hello
 
 [.lead]
-image:/assets/me.jpeg[float="right",width=128]
+image:/assets/me.jpeg[float="left",width=256]
 I am Conner Kulbaski, a Computer Science student at the University of Manitoba. I am currently seeking employment in the field of software engineering/IT that can work with a student's schedule. Contact me at connerkulbaski@gmail.com !
 
 == Personal Details
@@ -13,7 +13,6 @@ I am Conner Kulbaski, a Computer Science student at the University of Manitoba. 
 Name:: Conner Kulbaski
 Contacts::
 - icon:github[] https://github.com/ckulbaski
-- icon:link[] http://ckulbaski.github.io
 - icon:envelope[] connerkulbaski@gmail.com
 
 == Education
@@ -40,7 +39,7 @@ My team and I used Agile software development to develop an app that is used to 
 == Work Experience
 
 === Winnipeg School Division
-icon:calendar[title="Period"] `May 2019 - August 2019, May 2020 - August 2020` +
+`May 2019 - August 2019, May 2020 - August 2020` +
 
 I was a summer groundskeeper for all 78 schools in the Winnipeg School Division 1. I lead a team of students to cut grass, trim hedges, fix fences, aerate and soil fields, and many other groundskeeping tasks. 
 
@@ -61,7 +60,7 @@ I was responsible for preparing a variety of hot and cold meals, including break
 
 
 === Me to We Service Learning Trip
-icon:calendar[title="Period"] `March 2017 '
+icon:calendar[title="Date"] `March 2017 '
 
 In my senior year of high school I spent 10 days in Tanzania immersing myself in Maasai culture. We helped build a school, and our money went towards building a well in a rural village. One of the greatest experiences of my life, I hope to return some day!
 

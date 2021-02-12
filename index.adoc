@@ -6,7 +6,7 @@
 
 [.lead]
 image:/assets/me.jpeg[float="left",width=256]
-I am Conner Kulbaski, a Computer Science student at the University of Manitoba. I am currently seeking employment in the field of software engineering/IT that can work with a student's schedule. Contact me at connerkulbaski@gmail.com!
+I am Conner Kulbaski, a Computer Science student at the University of Manitoba. I am currently seeking employment in the field of software engineering/IT that can work with a student's schedule. Contact me at connerkulbaski@gmail.com! +
 
 
 
@@ -20,9 +20,9 @@ Contacts::
 
 == Education
 
-=== Bachelor of Science - Computer Science (Honours) (unfinished)
-`2017 - present` +
-  *University of Manitoba*
+*Bachelor of Science - Computer Science (Honours) (unfinished)* +
+*University of Manitoba*
+`2017 - present`
   
   
 === Skills

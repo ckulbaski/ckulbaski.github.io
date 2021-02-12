@@ -41,7 +41,7 @@ My team and I used Agile software development to develop an app that is used to 
 == Work Experience
 
 === Winnipeg School Division
-[title="Period"] `May 2019 - August 2019, May 2020 - August 2020` +
+`May 2019 - August 2019, May 2020 - August 2020` +
 
 I was a summer groundskeeper for all 78 schools in the Winnipeg School Division 1. I lead a team of students to cut grass, trim hedges, fix fences, aerate and soil fields, and many other groundskeeping tasks. 
 

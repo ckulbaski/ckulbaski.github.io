@@ -17,7 +17,7 @@ Contacts::
 
 == Education
 
-* 2017-present, Bachelor of Science - Computer Science (Honours) (unfinished),
+icon:calendar[title="Period"]`2017-present`, Bachelor of Science - Computer Science (Honours) (unfinished),
   *University of Manitoba*
   
   

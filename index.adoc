@@ -5,12 +5,7 @@
 == Hello
 
 [.lead]
-image:/assets/me.jpeg[float="left",width=256]
-I am Conner Kulbaski, a Computer Science student at the University of Manitoba. I am currently seeking employment in the field of computer science, software engineering, or IT. Contact me at connerkulbaski@gmail.com! +
-{nbsp} +
-{nbsp} +
-{nbsp} +
-{nbsp} +
+I am Conner Kulbaski, a fourth year Computer Science student at the University of Manitoba. I am currently seeking employment in the field of computer science, software engineering, or IT. Contact me at connerkulbaski@gmail.com! +
 
 == Personal Details
 

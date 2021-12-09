@@ -24,6 +24,7 @@ Contacts::
 === Skills
 
 - Java, C, Python
+- UX/Front end development using React and Bootstrap
 - Agile software development
 - Git/version control
 - Static website building
@@ -36,10 +37,17 @@ Contacts::
 
 My team and I used Agile software development to develop an app that is used to track spending and saving habits. We worked in Android Studio, which was part of a project for Software Engineering 1.  
 
+=== SEO-ker
+- https://seoker.herokuapp.com/
+
+My Software Engineering 2 project was a multiplayer party game inspired by [Higher Lower Game](https://www.higherlowergame.com/) and poker. It was built using [Next.js](https://nextjs.org/), [Socket.io](https://socket.io/), and [MongoDB](https://www.mongodb.com/).
+
 == Work Experience
 
+I don't have any experience working in the computer science/software development industry right now. However, I have lots of experience that demonstrates that I am a good team member and have excellent communication skills. 
+
 === Winnipeg School Division
-`May 2019 - August 2019, May 2020 - August 2020` +
+`May - August in 2019, 2020, and 2021` +
 
 I was a summer groundskeeper for all 78 schools in the Winnipeg School Division 1. I lead a team of students to cut grass, trim hedges, fix fences, aerate and soil fields, and many other groundskeeping tasks. 
 

@@ -5,7 +5,7 @@
 == Hello
 
 [.lead]
-I'm Conner Kulbaski, a fourth year Computer Science student at the University of Manitoba. I am currently seeking employment in the field of computer science, software engineering, or IT. Contact me at connerkulbaski@gmail.com! +
+My name is Conner Kulbaski, and I'm a Computer Science student at the University of Manitoba. I'm currently seeking employment in the field of computer science, software development, or IT. Contact me at connerkulbaski@gmail.com! +
 
 == Personal Details
 
@@ -23,8 +23,8 @@ Contacts::
   
 === Skills
 
-- Java, C, Python
-- UX/Front end development using React and Bootstrap
+- Java, C, Python, Javascript
+- UX/Front-end development using React and Bootstrap
 - Agile software development
 - Git/version control
 - Static website building
@@ -32,6 +32,12 @@ Contacts::
 - Speaks french
 
 == Projects
+
+=== Mindful.ly
+- https://github.com/scottjodoin/gratitude-prototype
+
+This is a prototype for a mindfulness/gratitude app made for COMP 3020 (Human-Computer Interaction). It's written in Javascript and Bootstrap, and uses Chart.js to display the data.
+The purpose of this project was to design a good user interface, rather than making a functional app, which is why the data is hard coded and static. 
 
 === "BudgeIt" Android app
 

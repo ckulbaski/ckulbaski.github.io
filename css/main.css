@@ -6,19 +6,20 @@
 }
 
 
+
+
 .header{
-    margin-bottom: 160px;
-    /*background-color: #c5c5b4;*/
+    display: flex;
+    justify-content: flex-start;
     border-radius: 5px;
 }
 
 h1{
     font-family: Quando;
-    font-size: 80px;
-    /*text-align: center;*/
+    font-size: 4vmax;
+    text-align: left;
     color: #1a774c;
     margin: 0;
-
 }
 h2{
     font-family: Quando;
@@ -52,11 +53,16 @@ a{
 
 
 .contacts{
-    display: inline;
-    padding-left: 10px;   
     text-align: right; 
+    vertical-align: top;
+    width: 30vw;
+    margin-right: 0;
+    margin-left: auto;
+    padding: 1em;
 }
-
+.contacts a{
+    font-size: 1vmax;
+}
 
 
 @font-face {

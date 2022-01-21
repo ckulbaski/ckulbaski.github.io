@@ -25,6 +25,7 @@ h2{
     font-family: Quando;
     color: #1a774c;
     text-decoration: underline;
+    margin-bottom: 2px;
 }
 
 
@@ -46,6 +47,18 @@ p{
 a{
     color: #666666;
     font-family: Quando;
+}
+
+.tilde {
+    font-size: 50px;
+    letter-spacing: -19px;
+    color: #917ae4;
+}
+
+hr{
+    color: #917ae4;
+    border: 3px solid;
+    border-radius: 3px;
 }
 
 

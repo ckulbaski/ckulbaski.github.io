@@ -9,6 +9,10 @@
     margin-bottom: 100px;
 }
 
+.edu-body{
+    margin: 20px;
+}
+
 .header{
     display: flex;
     justify-content: flex-start;
@@ -29,8 +33,6 @@ h2{
     margin-bottom: 2px;
     display: inline;
 }
-
-
 h3{
     color: #666666;
     font-family: Quando;
@@ -42,7 +44,7 @@ h3{
 p{
     color: #666666;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     margin-top: 2px;
 }
 
@@ -51,11 +53,6 @@ a{
     font-family: Quando;
 }
 
-.tilde {
-    font-size: 50px;
-    letter-spacing: -19px;
-    color: #917ae4;
-}
 
 .icon{
     padding-right: 1ch; 
@@ -80,6 +77,23 @@ hr{
 .contacts a{
     font-size: 1em;
 }
+.project{
+    margin: 20px;
+}
+
+.job{
+    line-height: 1;
+    margin: 20px;
+}
+
+.job p{
+    margin: 0;
+}
+
+.job h3{
+    margin: 0;
+}
+
 
 
 @font-face {

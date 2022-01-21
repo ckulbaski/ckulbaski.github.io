@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Quando';
+    src: url('Quando-Regular.eot');
+    src: url('Quando-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Quando-Regular.woff2') format('woff2'),
+        url('Quando-Regular.woff') format('woff'),
+        url('Quando-Regular.ttf') format('truetype'),
+        url('Quando-Regular.svg#Quando-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -28,13 +28,14 @@ h1{
 }
 h2{
     font-family: Quando;
+    /*color: #1a774c; */
     color: #1a774c;
     text-decoration: underline;
     margin-bottom: 2px;
     display: inline;
 }
 h3{
-    color: #666666;
+    color: #6e4626f8;
     font-family: Quando;
     margin-top: 10px;
     margin-bottom: 2px;
@@ -56,12 +57,12 @@ a{
 
 .icon{
     padding-right: 1ch; 
-    color: #1a774c;
+    color: #805532f8;
 }
 
 hr{
-    color: #917ae4;
-    border: 3px solid;
+    color: #6e4626f8;
+    border: 2px solid;
     border-radius: 3px;
 }
 
@@ -79,6 +80,9 @@ hr{
 }
 .project{
     margin: 20px;
+}
+.project a{
+    color: #6e4626f8;
 }
 
 .job{

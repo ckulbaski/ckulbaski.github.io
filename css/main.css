@@ -5,8 +5,9 @@
     background-color: #fff8e6
 }
 
-
-
+.content{
+    margin-bottom: 100px;
+}
 
 .header{
     display: flex;
@@ -26,6 +27,7 @@ h2{
     color: #1a774c;
     text-decoration: underline;
     margin-bottom: 2px;
+    display: inline;
 }
 
 
@@ -53,6 +55,11 @@ a{
     font-size: 50px;
     letter-spacing: -19px;
     color: #917ae4;
+}
+
+.icon{
+    padding-right: 1ch; 
+    color: #e43c1e;
 }
 
 hr{

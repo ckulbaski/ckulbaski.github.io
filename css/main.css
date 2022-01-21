@@ -29,9 +29,9 @@ h2{
 
 h3{
     color: #666666;
-}
-.education p{
-    margin: 5px;
+    font-family: Quando;
+    margin-top: 10px;
+    margin-bottom: 2px;
 }
 
 .skills{
@@ -39,11 +39,15 @@ h3{
 }
 
 p{
-    color: #666666
+    color: #666666;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    margin-top: 2px;
 }
 
 a{
     color: #666666;
+    font-family: Quando;
 }
 
 

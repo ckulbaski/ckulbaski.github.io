@@ -7,8 +7,8 @@
 
 
 .header{
-    /*margin: 50px;
-    background-color: #c5c5b4;*/
+    margin-bottom: 160px;
+    /*background-color: #c5c5b4;*/
     border-radius: 5px;
 }
 
@@ -49,7 +49,8 @@ a{
 
 .contacts{
     display: inline;
-    padding-left: 10px;    
+    padding-left: 10px;   
+    text-align: right; 
 }
 
 

@@ -30,7 +30,7 @@ h2{
     font-family: Quando;
     /*color: #1a774c; */
     color: #1a774c;
-    text-decoration: underline;
+
     margin-bottom: 2px;
     display: inline;
 }
@@ -86,7 +86,7 @@ hr{
 }
 
 .job{
-    line-height: 1;
+    line-height: normal;
     margin: 20px;
 }
 

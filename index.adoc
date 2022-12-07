@@ -23,6 +23,8 @@ Contacts::
   
 === Skills
 
+- Certified in Micosoft Azure Fundamentals
+- Microsoft DevOps
 - Java, C, Python, Javascript
 - UX/Front-end development using React and Bootstrap
 - Agile software development
@@ -51,6 +53,20 @@ My Software Engineering 2 project was a multiplayer party game inspired by [High
 == Work Experience
 
 I don't have any experience working in the computer science/software development industry right now. However, I have lots of experience that demonstrates that I am a good team member and have excellent communication skills. 
+
+=== Manitoba Hydro - Digital & Technology Trainee program
+`May 2022 - Present` +
+
+Manitoba Hydro's D&T Trainee program rotates new graduates through 4 different fields over the course of 2 years, giving each employee experience in a new department every 6 months. 
+- Data & Analytics. 
+	- Earned certification in Microsoft Azure Fundamentals, Microsoft's cloud platform that Hydro is currently transitioning to. 
+	- IBM COGNOS migration project. Developed reports in Microsoft Power BI to replace IBM COGNOS, which was becoming obsolete. 
+	- Peakload Report Prototyping. Developed prototypes in Power BI as a proof-of-concept. The business was investigating the capabilities of Power BI to visualize real-time data from Aveva PI sensors in the field. 
+- System Support.
+	- UnitCyclingTool. This is an advisory tool built using ReactJS for the front end and C# for the back end. It is used by system operators to track which generation units were most recently turned on/off to reduce wear and tear. 
+		- Debugged the tool to allow it to run successfully on the development server
+		- Configured a DevOps pipeline to build and deploy the tool to Dev and Prod servers
+		- Fixed miscellaneous UI bugs
 
 === Winnipeg School Division
 `May - August in 2019, 2020, and 2021` +
